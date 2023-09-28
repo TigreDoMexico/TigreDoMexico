@@ -9,8 +9,6 @@
 - 👨‍🏫 Sou também professor de programação (em busca de um mestrado) 🙃
 - ⛰️ Sempre em busca de novos desafios
 
-codereview
-
 <br/>
 
 <div>
