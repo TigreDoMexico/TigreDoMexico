@@ -2,11 +2,11 @@
 
 #### Meu nome é David Tigre Moraes, mais conhecido como Tigre do México 🐯
 
-- 🖥️ Sou formado em Ciência da Computação 
+- 🖥️ Desenvolvedor Backend, Mobile e DevEx
+- 🎤 Quase Palestrante
 - 📐 Especialista em Engenharia de Software
-- 🧟 Trabalho atualmente com desenvolvimento Backend 💻
-- 🐙 Já trabalhei com Mobile📱 e Web🕸️
-- 👨‍🏫 Sou também professor de programação (em busca de um mestrado) 🙃
+- 🐙 Já trabalhei tanto com Mobile📱 quanto com Web🕸️
+- 👨‍🏫 Já fui professor universitário na área de TI
 - ⛰️ Sempre em busca de novos desafios
 
 <br/>
