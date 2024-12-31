@@ -2,10 +2,10 @@
 
 #### Meu nome é David Tigre Moraes, mais conhecido como Tigre do México 🐯
 
-- 🖥️ Desenvolvedor Backend, Mobile e DevEx
-- 🎤 Quase Palestrante
+- 🏛️ Arquiteto de Solução e Platform Engineering
+- 🖥️ Desenvolvedor Backend e Mobile
+- 🎤 Palestrante
 - 📐 Especialista em Engenharia de Software
-- 🐙 Já trabalhei tanto com Mobile📱 quanto com Web🕸️
 - 👨‍🏫 Já fui professor universitário na área de TI
 - ⛰️ Sempre em busca de novos desafios
 
@@ -22,6 +22,7 @@
   <img align="center" alt="David-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="David-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="David-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="David-Dotnet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
   <img align="center" alt="David-Cplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="David-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="David-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
